@@ -47,7 +47,7 @@ https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api_samples.h
 
 ### Tutorial
 
-[Tableau Angular Integration](https://www.fullstackblog.in/)
+[Tableau Angular Integration](https://www.fullstackblog.in/salesforce-tableau-angular-integration/)
 
 ### Angular Version
 
