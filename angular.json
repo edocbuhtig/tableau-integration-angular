@@ -33,7 +33,7 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": ["src/assets/libs/tableau.js"]
           },
           "configurations": {
             "production": {
